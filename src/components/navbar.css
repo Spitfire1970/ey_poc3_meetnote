@@ -52,7 +52,7 @@ nav {
   
   .list {
     list-style-type: none;
-    margin-left: 1000px;
+    margin-left: 800px;
     display: none;
   }
   @media (min-width: 640px) {
