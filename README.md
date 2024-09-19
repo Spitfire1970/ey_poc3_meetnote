@@ -1,0 +1,1 @@
+A tool that auto-generates meeting summaries and minutes of the meetings based on given audio recordings of the meetings.
